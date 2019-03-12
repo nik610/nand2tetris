@@ -1,5 +1,5 @@
 # nand2tetris
-File of the Projects done to complete the Coursera course nand2tetris. 
+List of the Projects done to complete the Coursera course nand2tetris. 
 
 Nand2Tetris website: http://nand2tetris.org/
 
