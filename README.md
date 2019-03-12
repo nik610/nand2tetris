@@ -1,8 +1,6 @@
 # nand2tetris
 File of the Projects done to complete the Coursera course nand2tetris. 
 
-All projects for Nand2Teris
-
 Nand2Tetris website: http://nand2tetris.org/
 
 Project 0: Introduction
