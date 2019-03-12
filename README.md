@@ -16,3 +16,5 @@ Project 4: Machine Language
 Project 5: Computer Architecture
 
 Project 6: Assembler
+
+Files needed to run the files and other information may be found on the nand2tetris site.
