@@ -1,7 +1,5 @@
 # nand2tetris
-List of the Projects done to complete the Coursera course nand2tetris. 
-
-Nand2Tetris website: http://nand2tetris.org/
+List of projects done to build a computer (ALU, RAM, CPU, Assembler, etc.) from scratch (NAND gate) 
 
 Project 0: Introduction
 
@@ -17,4 +15,4 @@ Project 5: Computer Architecture
 
 Project 6: Assembler
 
-Files needed to run the files and other information may be found on the nand2tetris site.
+Files needed to run the files and other information may be found on the nand2tetris site: http://nand2tetris.org/
